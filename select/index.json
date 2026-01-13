@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Day Tripper",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-01-13T23:29:00.145814Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Day Tripper",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Day_Tripper_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Day Tripper",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/02_Day_Tripper_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Day Tripper",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/03_Day_Tripper_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Day Tripper - Live",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/04_Day_Tripper_-_Live_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Day Tripper (medley)",
+      "artist": "Type O Negative",
+      "has_synced": false,
+      "path": "select/05_Day_Tripper_(medley)_Type_O_Negative.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Day Tripper - BBC Sessions",
+      "artist": "Jimi Hendrix",
+      "has_synced": true,
+      "path": "select/06_Day_Tripper_-_BBC_Sessions_Jimi_Hendrix.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Day Tripper",
+      "artist": "Nancy Sinatra",
+      "has_synced": true,
+      "path": "select/07_Day_Tripper_Nancy_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Day Tripper",
+      "artist": "Whitesnake",
+      "has_synced": false,
+      "path": "select/08_Day_Tripper_Whitesnake.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nighthawk (Day Tripper)",
+      "artist": "Whitesnake",
+      "has_synced": true,
+      "path": "select/09_Nighthawk_(Day_Tripper)_Whitesnake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Day Tripper (Live in Europe 3/67) [Remastered]",
+      "artist": "Otis Redding",
+      "has_synced": false,
+      "path": "select/10_Day_Tripper_(Live_in_Europe_3_67)_[Remastered]_Otis_Redding.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Day Tripper (2015 stereo mix)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_Day_Tripper_(2015_stereo_mix)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Day Tripper",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_Day_Tripper_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Day Tripper",
+      "artist": "Otis Redding",
+      "has_synced": true,
+      "path": "select/13_Day_Tripper_Otis_Redding.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Day Tripper (Mono)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/14_Day_Tripper_(Mono)_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Day Tripper",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_Day_Tripper_The_Beatles.txt"
+    }
+  ]
+}
